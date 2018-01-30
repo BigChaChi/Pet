@@ -1,0 +1,4 @@
+#Tue Jan 30 14:30:22 CST 2018
+base.0=G\:\\Pet\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex

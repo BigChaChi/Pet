@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.Design.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPet</item>
+        <item name="colorPrimaryDark">@color/colorPet</item>
+        <item name="colorAccent">@color/colorPet</item>
+    </style>
+
+    <!--应用启动主题-->
+    <style name="SplashTheme" parent="AppTheme">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@drawable/launcher_bg</item>
+    </style>
+
+</resources>

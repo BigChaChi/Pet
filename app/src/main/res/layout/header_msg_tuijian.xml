@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="8984px"
+    android:background="#f4f4f4"
+    android:orientation="vertical">
+
+    <com.zhy.autolayout.AutoFrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="154px"
+        android:focusable="true"
+        android:focusableInTouchMode="true">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="28px"
+            android:background="@drawable/shape_msg_editext" />
+
+
+        <com.zhy.autolayout.AutoLinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="56px"
+                android:layout_height="56px"
+                android:adjustViewBounds="true"
+                android:scaleType="centerCrop"
+                android:src="@drawable/search_icon" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30px"
+                android:text="搜索"
+                android:textColor="#808080"
+                android:textSize="50px" />
+        </com.zhy.autolayout.AutoLinearLayout>
+    </com.zhy.autolayout.AutoFrameLayout>
+
+
+    <com.youth.banner.Banner xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/banner"
+        android:layout_width="match_parent"
+        android:layout_height="740px"
+        android:paddingBottom="30px"
+        app:delay_time="3000"
+        app:title_textcolor="@color/color9"
+        app:title_textsize="30px"
+        app:image_scale_type="center_crop"
+        app:indicator_drawable_selected="@drawable/shape_msg_tuijian_circle_ff"
+        app:indicator_drawable_unselected="@drawable/shape_msg_tuijian_circle_f4"
+        app:indicator_height="12px"
+        app:indicator_margin="12px"
+        app:indicator_width="12px" />
+
+
+</com.zhy.autolayout.AutoLinearLayout>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    tools:context="com.yianke.pet.ui.activity.LeaderActivity">
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/mains"
+        android:layout_width="match_parent"
+        android:layout_height="1400px"
+        android:layout_gravity="center_horizontal" />
+
+
+    <!--引导页指示器-->
+    <com.zhy.autolayout.AutoLinearLayout
+        android:id="@+id/indicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="80px">
+
+
+    </com.zhy.autolayout.AutoLinearLayout>
+
+    <!--注册-->
+    <TextView
+        android:id="@+id/leader_register"
+        android:layout_width="match_parent"
+        android:layout_height="167px"
+        android:layout_marginLeft="413px"
+        android:layout_marginRight="413px"
+        android:layout_marginTop="321px"
+        android:background="@drawable/shape_leader_register"
+        android:gravity="center"
+        android:text="注册"
+        android:textColor="@color/colorWhite"
+        android:textSize="54px" />
+
+    <!--登录-->
+    <TextView
+        android:id="@+id/leader_login"
+        android:layout_width="match_parent"
+        android:layout_height="167px"
+        android:layout_marginLeft="413px"
+        android:layout_marginRight="413px"
+        android:layout_marginTop="42px"
+        android:background="@drawable/shape_leader_login"
+        android:gravity="center"
+        android:text="登录"
+        android:textColor="@color/colorPet"
+        android:textSize="54px" />
+
+</com.zhy.autolayout.AutoLinearLayout>

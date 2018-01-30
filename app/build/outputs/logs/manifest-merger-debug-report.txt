@@ -1,0 +1,269 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Pet\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from G:\Pet\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from G:\Pet\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from G:\Pet\app\src\main\AndroidManifest.xml:2:1-79:12
+MERGED from [com.zhy:autolayout:1.4.5] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\autolayout-1.4.5.aar\f209b4a2682a70987c356cce05f05710\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:design:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\83f4a2e410b087879ebb77e80d126ff6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\68e795f588107110277e77c1d31750c6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d8268e1e4d1e4d1dbecb9acdb14ec7cd\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:0.12.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\fresco-0.12.0.aar\3f8c8118b01785d4389ce3dc24293d33\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:0.12.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\drawee-0.12.0.aar\a60bb67d1f0519029760c2a3d8570f88\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:0.12.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\imagepipeline-0.12.0.aar\a267495c3bd9047a91435155e72fe829\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:transition:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\bc4272d6ca3f3d8b95919b212334d505\AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.fresco:imagepipeline-base:0.12.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-0.12.0.aar\2adb1226b4776e229affc36c080a3c70\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\bc679fbf7217dae8af9d6fbca9f118a9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.youth.banner:banner:1.4.10] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\banner-1.4.10.aar\b3c32fd928528f06460a3d8ac1b7df30\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\259b46858b402b04746fdacc6248a3a2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\4cbed99f5a14731ebe09733a30565a1f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\66bedf1d8159657f9715d039868cc323\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\9957a5b676cd8f317abe0a25dc5cb3ee\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\842d4878a2bbf5b10e59012f26257c4e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\55cf3634d2655d0c55449c701a92cf56\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\a615d2d227760b7f6ef0ddab138ac240\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\306a24ae287f17cc9d5d51aa4692bc11\AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fresco:fbcore:0.12.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\fbcore-0.12.0.aar\f84eea9689841f777f4b263d56b14ee9\AndroidManifest.xml:2:1-9:12
+INJECTED from G:\Pet\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from G:\Pet\app\src\main\AndroidManifest.xml:2:1-79:12
+INJECTED from G:\Pet\app\src\main\AndroidManifest.xml:2:1-79:12
+	package
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from G:\Pet\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Pet\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\Pet\app\src\main\AndroidManifest.xml
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:2:1-79:12
+		INJECTED from G:\Pet\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\Pet\app\src\main\AndroidManifest.xml
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:2:1-79:12
+		INJECTED from G:\Pet\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from G:\Pet\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from G:\Pet\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:6:22-77
+application
+ADDED from G:\Pet\app\src\main\AndroidManifest.xml:9:5-77:19
+MERGED from [com.android.support:design:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\83f4a2e410b087879ebb77e80d126ff6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\83f4a2e410b087879ebb77e80d126ff6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\68e795f588107110277e77c1d31750c6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\68e795f588107110277e77c1d31750c6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d8268e1e4d1e4d1dbecb9acdb14ec7cd\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d8268e1e4d1e4d1dbecb9acdb14ec7cd\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\bc4272d6ca3f3d8b95919b212334d505\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\bc4272d6ca3f3d8b95919b212334d505\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\bc679fbf7217dae8af9d6fbca9f118a9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\bc679fbf7217dae8af9d6fbca9f118a9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\259b46858b402b04746fdacc6248a3a2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\259b46858b402b04746fdacc6248a3a2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\4cbed99f5a14731ebe09733a30565a1f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\4cbed99f5a14731ebe09733a30565a1f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\66bedf1d8159657f9715d039868cc323\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\66bedf1d8159657f9715d039868cc323\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\9957a5b676cd8f317abe0a25dc5cb3ee\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\9957a5b676cd8f317abe0a25dc5cb3ee\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\842d4878a2bbf5b10e59012f26257c4e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\842d4878a2bbf5b10e59012f26257c4e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\55cf3634d2655d0c55449c701a92cf56\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\55cf3634d2655d0c55449c701a92cf56\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\a615d2d227760b7f6ef0ddab138ac240\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\a615d2d227760b7f6ef0ddab138ac240\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\306a24ae287f17cc9d5d51aa4692bc11\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\306a24ae287f17cc9d5d51aa4692bc11\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:10:9-38
+activity#com.yianke.pet.ui.activity.SplashActivity
+ADDED from G:\Pet\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:screenOrientation
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:20:13-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\Pet\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from G:\Pet\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Pet\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:25:27-74
+meta-data#design_width
+ADDED from G:\Pet\app\src\main\AndroidManifest.xml:30:9-32:36
+	android:value
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:32:13-33
+	android:name
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:31:13-40
+meta-data#design_height
+ADDED from G:\Pet\app\src\main\AndroidManifest.xml:33:9-35:36
+	android:value
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:35:13-33
+	android:name
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:34:13-41
+activity#com.yianke.pet.ui.activity.LeaderActivity
+ADDED from G:\Pet\app\src\main\AndroidManifest.xml:38:9-40:51
+	android:screenOrientation
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:40:13-49
+	android:name
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:39:13-55
+activity#com.yianke.pet.ui.activity.RegisterActivity
+ADDED from G:\Pet\app\src\main\AndroidManifest.xml:42:9-45:81
+	android:screenOrientation
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:44:13-49
+	android:theme
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:45:13-69
+	android:name
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:43:13-57
+activity#com.yianke.pet.ui.activity.AgreeDetialActivity
+ADDED from G:\Pet\app\src\main\AndroidManifest.xml:47:9-50:81
+	android:screenOrientation
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:49:13-49
+	android:theme
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:50:13-69
+	android:name
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:48:13-60
+activity#com.yianke.pet.ui.activity.VerificationCodeActivity
+ADDED from G:\Pet\app\src\main\AndroidManifest.xml:52:9-55:81
+	android:screenOrientation
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:54:13-49
+	android:theme
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:55:13-69
+	android:name
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:53:13-65
+activity#com.yianke.pet.ui.activity.PetMsgActivity
+ADDED from G:\Pet\app\src\main\AndroidManifest.xml:57:9-60:81
+	android:screenOrientation
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:59:13-49
+	android:theme
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:60:13-69
+	android:name
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:58:13-55
+activity#com.yianke.pet.ui.activity.LoginActivity
+ADDED from G:\Pet\app\src\main\AndroidManifest.xml:62:9-65:81
+	android:screenOrientation
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:64:13-49
+	android:theme
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:65:13-69
+	android:name
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:63:13-54
+activity#com.yianke.pet.ui.activity.MainActivity
+ADDED from G:\Pet\app\src\main\AndroidManifest.xml:67:9-71:81
+	android:screenOrientation
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:70:13-49
+	android:process
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:69:13-39
+	android:theme
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:71:13-69
+	android:name
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:68:13-53
+activity#com.yianke.pet.ui.activity.MissActivity
+ADDED from G:\Pet\app\src\main\AndroidManifest.xml:73:9-76:81
+	android:screenOrientation
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:75:13-49
+	android:theme
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:76:13-69
+	android:name
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml:74:13-53
+uses-sdk
+INJECTED from G:\Pet\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\Pet\app\src\main\AndroidManifest.xml
+INJECTED from G:\Pet\app\src\main\AndroidManifest.xml
+MERGED from [com.zhy:autolayout:1.4.5] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\autolayout-1.4.5.aar\f209b4a2682a70987c356cce05f05710\AndroidManifest.xml:8:5-10:41
+MERGED from [com.zhy:autolayout:1.4.5] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\autolayout-1.4.5.aar\f209b4a2682a70987c356cce05f05710\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\83f4a2e410b087879ebb77e80d126ff6\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\83f4a2e410b087879ebb77e80d126ff6\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\68e795f588107110277e77c1d31750c6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\68e795f588107110277e77c1d31750c6\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d8268e1e4d1e4d1dbecb9acdb14ec7cd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d8268e1e4d1e4d1dbecb9acdb14ec7cd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:0.12.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\fresco-0.12.0.aar\3f8c8118b01785d4389ce3dc24293d33\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:0.12.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\fresco-0.12.0.aar\3f8c8118b01785d4389ce3dc24293d33\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.12.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\drawee-0.12.0.aar\a60bb67d1f0519029760c2a3d8570f88\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.12.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\drawee-0.12.0.aar\a60bb67d1f0519029760c2a3d8570f88\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.12.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\imagepipeline-0.12.0.aar\a267495c3bd9047a91435155e72fe829\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.12.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\imagepipeline-0.12.0.aar\a267495c3bd9047a91435155e72fe829\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\bc4272d6ca3f3d8b95919b212334d505\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\bc4272d6ca3f3d8b95919b212334d505\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:imagepipeline-base:0.12.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-0.12.0.aar\2adb1226b4776e229affc36c080a3c70\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:0.12.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-0.12.0.aar\2adb1226b4776e229affc36c080a3c70\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\bc679fbf7217dae8af9d6fbca9f118a9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\bc679fbf7217dae8af9d6fbca9f118a9\AndroidManifest.xml:21:5-23:54
+MERGED from [com.youth.banner:banner:1.4.10] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\banner-1.4.10.aar\b3c32fd928528f06460a3d8ac1b7df30\AndroidManifest.xml:7:5-9:41
+MERGED from [com.youth.banner:banner:1.4.10] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\banner-1.4.10.aar\b3c32fd928528f06460a3d8ac1b7df30\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\259b46858b402b04746fdacc6248a3a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\259b46858b402b04746fdacc6248a3a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\4cbed99f5a14731ebe09733a30565a1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\4cbed99f5a14731ebe09733a30565a1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\66bedf1d8159657f9715d039868cc323\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\66bedf1d8159657f9715d039868cc323\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\9957a5b676cd8f317abe0a25dc5cb3ee\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\9957a5b676cd8f317abe0a25dc5cb3ee\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\842d4878a2bbf5b10e59012f26257c4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\842d4878a2bbf5b10e59012f26257c4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\55cf3634d2655d0c55449c701a92cf56\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\55cf3634d2655d0c55449c701a92cf56\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\a615d2d227760b7f6ef0ddab138ac240\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\a615d2d227760b7f6ef0ddab138ac240\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\306a24ae287f17cc9d5d51aa4692bc11\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\306a24ae287f17cc9d5d51aa4692bc11\AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fresco:fbcore:0.12.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\fbcore-0.12.0.aar\f84eea9689841f777f4b263d56b14ee9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.12.0] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\fbcore-0.12.0.aar\f84eea9689841f777f4b263d56b14ee9\AndroidManifest.xml:5:5-7:41
+INJECTED from G:\Pet\app\src\main\AndroidManifest.xml
+INJECTED from G:\Pet\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\83f4a2e410b087879ebb77e80d126ff6\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from G:\Pet\app\src\main\AndroidManifest.xml
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Pet\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Pet\app\src\main\AndroidManifest.xml
+		ADDED from G:\Pet\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Pet\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\83f4a2e410b087879ebb77e80d126ff6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\68e795f588107110277e77c1d31750c6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\68e795f588107110277e77c1d31750c6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\bc4272d6ca3f3d8b95919b212334d505\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\bc4272d6ca3f3d8b95919b212334d505\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\bc679fbf7217dae8af9d6fbca9f118a9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\bc679fbf7217dae8af9d6fbca9f118a9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\259b46858b402b04746fdacc6248a3a2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\259b46858b402b04746fdacc6248a3a2\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\4cbed99f5a14731ebe09733a30565a1f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\4cbed99f5a14731ebe09733a30565a1f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\66bedf1d8159657f9715d039868cc323\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\66bedf1d8159657f9715d039868cc323\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\9957a5b676cd8f317abe0a25dc5cb3ee\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\9957a5b676cd8f317abe0a25dc5cb3ee\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\842d4878a2bbf5b10e59012f26257c4e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\842d4878a2bbf5b10e59012f26257c4e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\55cf3634d2655d0c55449c701a92cf56\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\55cf3634d2655d0c55449c701a92cf56\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\a615d2d227760b7f6ef0ddab138ac240\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\a615d2d227760b7f6ef0ddab138ac240\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\306a24ae287f17cc9d5d51aa4692bc11\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\306a24ae287f17cc9d5d51aa4692bc11\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\83f4a2e410b087879ebb77e80d126ff6\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.0.1] C:\Users\wei\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\83f4a2e410b087879ebb77e80d126ff6\AndroidManifest.xml:27:13-51

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pet</string>
+    <!--状态栏高度-->
+    <dimen name="statusbar_height">84px</dimen>
+
+    <string name="leader_title_1">精选功能升级</string>
+    <string name="leader_title_2">新增动态板块</string>
+    <string name="leader_title_3">商城新增拼团</string>
+    <string name="leader_title_4">全新试用功能</string>
+
+    <string name="leader_descript_1">多图形式展现，演绎爱宠生活点滴</string>
+    <string name="leader_descript_2">宠友热辣分享，第一时间就能看见</string>
+    <string name="leader_descript_3">和宠友一起买，享受超乎想象的优惠</string>
+    <string name="leader_descript_4">一键申请，各类宠物商品免费用</string>
+
+
+
+
+</resources>
